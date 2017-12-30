@@ -39,7 +39,7 @@ are using.  This is under the dependency for `com.mapr.db`:
       <dependency>
         <groupId>com.mapr.db</groupId>
         <artifactId>maprdb</artifactId>
-        <version>5.2.1-mapr</version>
+        <version>6.0.0-mapr</version>
       </dependency>
     </dependencies>
 
