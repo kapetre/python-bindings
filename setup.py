@@ -15,8 +15,8 @@ if len(glob.glob(dependencies_dir)) == 0:  # __init__.py
 
 setup(
     name = "maprdb",
-    version = "0.0.3",
-    description = ("API to work with MapR DB. Wrapper of Java API."),
+    version = "0.0.4",
+    description = ("API to work with MapR DB 6.0.0. Wrapper of Java API."),
     license = "Apache License 2.0",
     keywords = "mapr db json",
     packages=["maprdb", "maprdb.dependency"],
